@@ -1,4 +1,4 @@
-# Load raw Florida voter data into a database
+## Load raw Florida voter data into a database
 Charles McGuinness  
 github@mcguinness.us  
 @socialseercom
@@ -13,3 +13,8 @@ have the appropriate values for your database server.  Then modify main.py to
 point to the correct directories for the files.
 
 Other than that, the program is fairly simple.
+
+#### See also
+For a more sophisticated tool for analyzing voter data, see my
+[addsub repository](https://github.com/cmcguinness/AddSub)
+elsewhere on GitHub.
