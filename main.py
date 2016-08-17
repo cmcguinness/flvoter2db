@@ -77,5 +77,5 @@ if __name__ == "__main__":
     config = configparser.ConfigParser()
     config.read('cv2db.ini')
     main = LoadVoterData(config)
-    # main.load_registration('/Users/charles/Projects/VoterFile/201608')
+    main.load_registration('/Users/charles/Projects/VoterFile/201608')
     main.load_history('/Users/charles/Projects/VoterFile/201608 History')
